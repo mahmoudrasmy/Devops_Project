@@ -31,5 +31,29 @@
 ## 1-Create the nodejs application 
 		-Download the code from the https://github.com/mahmoudrasmy/Devops_Project/tree/master/nodejs_application
 		
+## 2-Upload the code on Github using the Following Steps :
+		-git init
+		-git add README.md
+		-git commit -m "first commit"
+		-git remote add origin URL_of_Repo
+		-git push -u origin master
+		
+## 3-Prepare the infrastrucutre as a code :
+		-Download the Code of the infrastructure as a code
+		-Create a file 'terraform.tf' and fill it with your AWS Credentials
+			```
+			variable "region" {
+				default = ""
+			}
+
+			variable "access_key" {
+			default = ""
+			}
+			
+			variable "secret_key" {
+			default = ""
+			}
+			```
+		-To Launch Terraform $terraform apply
 
 
