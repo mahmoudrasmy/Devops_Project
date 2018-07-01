@@ -54,6 +54,7 @@
 			default = ""
 			}
 			```
+		-Copy the private_key.pem into the machine
 		-To Launch Terraform $terraform apply
 
 
