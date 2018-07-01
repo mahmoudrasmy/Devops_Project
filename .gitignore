@@ -1,1 +1,4 @@
 nodejs_application/node_modules
+Infrastructure_as_a_code_for_jenkins/Terraform/.terraform
+Infrastructure_as_a_code_for_jenkins/Terraform/jenkins_aws.pem
+Infrastructure_as_a_code_for_jenkins/Terraform/terraform.tf

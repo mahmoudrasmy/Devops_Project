@@ -27,5 +27,9 @@
 	11-Deploy image on AWS using Packer
 	12-Orchestrate the container using Kubernetes
 	13-Use Counsl for Service Dicovery of Microservice
+	
+## 1-Create the nodejs application 
+		-Download the code from the https://github.com/mahmoudrasmy/Devops_Project/tree/master/nodejs_application
+		
 
 
